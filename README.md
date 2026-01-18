@@ -24,20 +24,6 @@ Concepts Applied:
 * String handling
 * Conditional logic
 
-How to Run the Program:
-
-Clone the repository:
-
-git clone <your-repo-link>
-
-Compile the program:
-
-gcc main.c -o menu
-
-Run the executable:
-
-./menu
-
 Learning Outcomes : 
 
 Improved understanding of control flow and decision-making in C
